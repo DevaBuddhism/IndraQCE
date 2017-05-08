@@ -40,6 +40,7 @@ The base method of interaction is a naturally enhanced semi-telepathic holograph
 
 ## System Architecture
 
+## Nature
 
 
 ---
