@@ -8,5 +8,5 @@ Indra is a Quantum Computing Environment formulated from natural elements residi
 The base method of interaction is a naturally enhanced semi-telepathic holographic user interface that is emitted from a removable device that is linked to biometrics of the corresponding user.  
 
 ---
-Document Prepared by Rahula
+Document Prepared by Rahula  
 (c) 2017 All Rights Reserved;
