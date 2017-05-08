@@ -19,7 +19,22 @@ The base method of interaction is a naturally enhanced semi-telepathic holograph
 ## Creative Center
   - Take resultset returned from Logic, Neural, and Learning Centers to form the creative idea
 
-## User Interaction
+## Administration Center
+  - Administration manages security, protocols, failures, alerts, and management of protocols.
+
+## Distribution Center
+  - Distributes resources through the system.  Communications, goods, nodes, memory allocation, and necessary distributable resources
+
+## User Center
+  - User interaction is a semi-telepathic holographic interface linked through a mind mapped biometric security protocol.
+  
+## Communication Center
+  - Handle communications of visual, audio, text, and system Communications
+  
+## Time Center
+  - Manages all things related to Time
+  
+----------------------
 
 ## Protocols
 
