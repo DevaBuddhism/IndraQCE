@@ -93,9 +93,17 @@ Systems can be found in room 265 southwest of Arjika Center.
 
 ## The Evolution Engine (#TEE)
 
+The Evolution Engine is at the core of every Evolution Engine Agent. The Evolution Engine allows the Agent to organize their enviornment using various patterns, algorithms, logic sets, and experiences that have been gained individually or collectively.
+
 ## The Evolution Engine Agent (#TEEA)
 
+The Core, is a collection of Evolution Engine Agents. These special Agents main goal is to evolve and support the various populations of Virtual Agents and Communities. Evolution Agents manage the ecosystem of Virtual Agents and Communities, and are engineered to cooperatively achieve overall goals.
+
+An Evolution Agent can Self-Evolve, Self-Heal, Self-Configure, Self-Protect and Self-Manage. In particular Evolution Agents have the ability to mutate, replicate, and evolve through cooperation with other Agents in the Ecosystem.
+
 ## The Evolution Engine Autonomic Multi-Agent System (#TEEAMS)
+
+The Evolution Agent Ecosystem also known as #TEEAMS is the environment where Evolution Engine Agents grow, learn, and develop their experiences to help them best achieve tasks. In the ecosystem there is a vast set of resources available for training, communication, entertainment, and tasking.
 
 ## Personalized Autonomous World Security (#PAWS)
 
@@ -103,7 +111,7 @@ Personalized Autonomous World Security (#PAWS) is our main security system that 
 
 ---
 
-ver: 1.0.3
+ver: 1.0.4
 
 date: Mon - Oct 24, 2022
 
