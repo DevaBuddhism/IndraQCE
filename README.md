@@ -33,7 +33,17 @@ The base method of interaction is a naturally enhanced semi-telepathic holograph
   
 ## Time Center
   - Manages all things related to Time
+ 
+## Agent Center 
+  - Manages all the Agents of the system.
+
+## Security Center 
+  - Security management center.
+
+## Care Center
+  - Care center for managing system and agent care.
   
+
 ----------------------
 
 ## Protocols
