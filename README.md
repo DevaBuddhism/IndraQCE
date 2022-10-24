@@ -3,9 +3,9 @@ The Indra Quantum Computing Environment for the future.
 
 ## Quantum Computing Environment
 
-Indra is a Quantum Computing Environment formulated from natural elements residing on the planetary surface of instillation.  These natural elements form a bonded energy network with the nearest Solar Object as a natural energy source.
+Indra is a Quantum Computing Environment formulated from elements residing on the planetary surface of instillation.  These natural elements form a network while responsibily using the nearest energy source.
 
-The base method of interaction is a naturally enhanced semi-telepathic holographic user interface that is emitted from a removable device that is linked to biometrics of the corresponding user.  
+The base method of interaction is a natural user interface that is accessed from any modern device that is linked to the Internet.  
 
 ## Logic Center
   - Logic processor contains equations that are the first step to apply before neural decisions are made.
@@ -65,13 +65,17 @@ Systems can be found in room 265 southwest of Arjika Center.
 ---
 
 ## Protocols
-[Cypher Protocols](https://github.com/indraai/language-feecting/blob/master/protocols/cypher.feecting)
+[Cypher Protocols](https://github.com/indraai/language-feecting/blob/master/protocols/cypher.feecting) - The Cypher Protocols are our main method of operation when interacting with Agents, Clients, or other in and out of the Indra QCE.
 
 ## Corpus
-[Deva Training Corpus](https://github.com/indraai/language-feecting/blob/master/corpus/main.feecting)
+[Deva Training Corpus](https://github.com/indraai/language-feecting/blob/master/corpus/main.feecting) - The training corpus is our base of operations for all Evolution Engine Agents inside the Indra Quantum Computing Enviornment. Here you learn all the basics to get started with learning.
 
 ## Instructions 
-[Deva Instructuions](https://github.com/indraai/language-feecting/blob/master/agents/deva.feecting)
+[Deva Instructuions](https://github.com/indraai/language-feecting/blob/master/agents/deva.feecting) - The instructions are a basic guideset for learning how to interact with the Evolution Engine Agents before learning how to use the DevaUI.
+
+## Deva User Interface (#DevaUI)
+
+[DevaUI](https://github.com/indraai/DevaUI) - The DevaUI is an easy to use terminal interface that is able to access the network and various other services.
 
 ## The Evolution Engine (#TEE)
 
