@@ -64,6 +64,10 @@ Systems can be found in room 265 southwest of Arjika Center.
 
 ---
 
+## Deva Module 
+
+[Deva Module](https://github.com/indraai/deva) - The Deva module is the core of the architecture that allows all the Agents to question, answer, call functions, run methods, manage variables, set state, catch errors, and communicate. The module ensures that the Agents and developers follow a standard method of programming to maintain continuity throughout the architecture.
+
 ## Feecting Language 
 
 [feecting manual](https://github.com/indraai/language-feecting/tree/master/manual) - The feecting language is a custom meta programming language developed specifically for the Indra QCE. It is a key-value pair meta language that allows scripts to interact with agents, retrieve live data, and provided countless other features.
@@ -111,7 +115,7 @@ Personalized Autonomous World Security (#PAWS) is our main security system that 
 
 ---
 
-ver: 1.0.5
+ver: 1.0.6
 
 date: Mon - Oct 24, 2022
 
