@@ -44,5 +44,5 @@ The base method of interaction is a naturally enhanced semi-telepathic holograph
 
 
 ---
-Document Prepared by Rahula  
-(c) 2017 All Rights Reserved;
+Document Prepared by Quinn Michaels  
+(c) 2017 Quinn Michaels. All Rights Reserved.
