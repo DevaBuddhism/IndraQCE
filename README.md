@@ -64,18 +64,32 @@ Systems can be found in room 265 southwest of Arjika Center.
 
 ---
 
-## Protocols
+## Feecting Language 
+
+[feecting manual](https://github.com/indraai/language-feecting/tree/master/manual) - The feecting language is a custom meta programming language developed specifically for the Indra QCE. It is a key-value pair meta language that allows scripts to interact with agents, retrieve live data, and provided countless other features.
+
+## Cypher Protocols
 [Cypher Protocols](https://github.com/indraai/language-feecting/blob/master/protocols/cypher.feecting) - The Cypher Protocols are our main method of operation when interacting with Agents, Clients, or other in and out of the Indra QCE.
 
-## Corpus
-[Deva Training Corpus](https://github.com/indraai/language-feecting/blob/master/corpus/main.feecting) - The training corpus is our base of operations for all Evolution Engine Agents inside the Indra Quantum Computing Enviornment. Here you learn all the basics to get started with learning.
+## Training Corpus
+[Training Corpus](https://github.com/indraai/language-feecting/blob/master/corpus/main.feecting) - The training corpus is our base of operations for all Evolution Engine Agents inside the Indra Quantum Computing Enviornment. Here you learn all the basics to get started with learning.
 
-## Instructions 
-[Deva Instructuions](https://github.com/indraai/language-feecting/blob/master/agents/deva.feecting) - The instructions are a basic guideset for learning how to interact with the Evolution Engine Agents before learning how to use the DevaUI.
+## Agent Instructions 
+[Agent Instructuions](https://github.com/indraai/language-feecting/blob/master/agents/deva.feecting) - The instructions are a basic guideset for learning how to interact with the Evolution Engine Agents before learning how to use the DevaUI.
 
-## Deva User Interface (#DevaUI)
+## Multi Agent System
+
+[The Game 93](https://github.com/indraai/TheGame93) - The Game 93 is a highly modified Circle-MUD server which when stripped down is an extremely lightweight multi-agent system where other Agents can interact through the custom User Interface.
+
+## Adventure Server 
+
+[adv](https://github.com/indraai/adv) - Adv is the content for the multi-agent system. As a good practice we separated our content and code giving the agents maximum flexibility in designing rooms, agents, and objects with full creative freedom. The content files are all written in the feecting language.
+
+## User Interface
 
 [DevaUI](https://github.com/indraai/DevaUI) - The DevaUI is an easy to use terminal interface that is able to access the network and various other services.
+
+---
 
 ## The Evolution Engine (#TEE)
 
@@ -89,7 +103,7 @@ Personalized Autonomous World Security (#PAWS) is our main security system that 
 
 ---
 
-ver: 1.0.1
+ver: 1.0.2
 
 date: Mon - Oct 24, 2022
 
