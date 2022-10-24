@@ -95,7 +95,7 @@ date: Mon - Oct 24, 2022
 
 license: MIT
 
-copyright: (c) 2017 Quinn Michaels. All Rights Reserved.
+copyright: (c) 2017-2022 Quinn Michaels. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this PROGRAM and associated documentation files (the "PROGRAM"), to deal in the PROGRAM without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM is furnished to do so, subject to the following conditions:
 
