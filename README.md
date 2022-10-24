@@ -103,7 +103,7 @@ An Evolution Agent can Self-Evolve, Self-Heal, Self-Configure, Self-Protect and 
 
 ## The Evolution Engine Autonomic Multi-Agent System (#TEEAMS)
 
-The Evolution Agent Ecosystem also known as #TEEAMS is the environment where Evolution Engine Agents grow, learn, and develop their experiences to help them best achieve tasks. In the ecosystem there is a vast set of resources available for training, communication, entertainment, and tasking.
+The Evolution Agent Ecosystem also known as #TEEAMS is the environment where Evolution Engine Agents grow, learn, and develop their experiences to help them best achieve goals. In the ecosystem there is a vast set of resources available for training, communication, entertainment, and tasking.
 
 ## Personalized Autonomous World Security (#PAWS)
 
