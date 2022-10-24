@@ -1,5 +1,5 @@
-# Indra
-Indra is a Quantum Computing Environment for the future.  
+# Indra QCE
+The Indra Quantum Computing Environment for the future.  
 
 ## Quantum Computing Environment
 
