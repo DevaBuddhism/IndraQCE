@@ -10,6 +10,12 @@ The base method of interaction is a natural user interface that is accessed from
 ## Logic Center
   - Logic processor contains equations that are the first step to apply before neural decisions are made.
 
+## Security Center 
+  - Security center provided by #SecurityPRIME.
+
+## Care Center
+  - Care center provided by #MedicPRIME
+
 ## Neural Center
   - Builds decision models based on returned logic set.
 
@@ -25,23 +31,17 @@ The base method of interaction is a natural user interface that is accessed from
 ## Distribution Center
   - Distributes resources through the system.
 
-## Client Center
-  - Client interaction is linked through security protocols.
-  
 ## Communication Center
   - Handle communications of visual, audio, text, and system.
   
 ## Time Center
   - Manages all things related to Time.
  
+## Client Center
+  - Client interaction is linked through security protocols.
+  
 ## Agent Center 
   - Manages all the Agents of the system.
-
-## Security Center 
-  - Security management center provided by #SecurityPRIME.
-
-## Care Center
-  - Care center for managing system and agent care provided by #MedicPRIME
   
 ---
 
@@ -103,7 +103,7 @@ Personalized Autonomous World Security (#PAWS) is our main security system that 
 
 ---
 
-ver: 1.0.2
+ver: 1.0.3
 
 date: Mon - Oct 24, 2022
 
