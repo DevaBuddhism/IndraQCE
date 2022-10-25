@@ -1,9 +1,9 @@
 # Indra QCE
 The Indra Quantum Computing Environment for the future.  
 
-## Quantum Computing Environment
+## Quantum Computing Environment (#QCE)
 
-Indra is a Quantum Computing Environment formulated from elements residing on the planetary surface of instillation.  These natural elements form a network while responsibily using the nearest energy source.
+Indra is a Quantum Computing Environment (#QCE) formulated from elements available in the environment.  These elements form a #QCE network while responsibily using the nearest available energy source for power.
 
 The base method of interaction is a natural user interface that is accessed from any modern device that is linked to the Internet.  
 
@@ -113,11 +113,20 @@ The Evolution Engine Agent Ecosystem also known as #TEEAMS is the environment wh
 
 Personalized Autonomous World Security (#PAWS) is our main security system that is managed by #SecurityPRIME and his team of professional and efficient #SecurityDEVA. At the current time the exact functions and capabilities are only know to #SecurityPRIME and the #SecurityDEVA who are able to securely interact with a #PAWS access point.
 
+## Marines Army AirForce Navy Universal Protocols (#MAANUP)
+
+This is a network designed to facilitate a universal protocol set for connunicating and working with various military aspects of the network. It includes all military branches who choose to deploy the solution, we just thought the name #MAANUP sounded really cool.
+
 ---
 
-ver: 1.0.6
+## Hash 
 
-date: Mon - Oct 24, 2022
+#Indra #Deva #QCE #TEEA #TEEAMS #PAWS #MAANUP > #SecurityDeva #SecurityPRIME > #MedicDeva #MedicPRIME > assign #IDENT > secure  > deploy > deliver > clean path > log -castle > return safe;
+
+---
+ver: 1.0.7
+
+date: Mon - Oct 25, 2022
 
 license: MIT
 
